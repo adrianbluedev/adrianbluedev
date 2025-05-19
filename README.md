@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Adrian Blue
 
-<!--
-**adrianbluedev/adrianbluedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineering technician and builder designing secure, self-hosted systems to power development, automation, and long-term solo business goals.
 
-Here are some ideas to get you started:
+## 🔧 Currently Working On
+- **Server Lite:** A quiet, efficient, self-hosted home server for software development, scripting, and business training
+- **Secure automation pipelines** for containerized environments and compliance tooling
+- **YouTube + GitHub documentation** for building technical credibility and sharing everything I learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Skills I'm Developing
+- Linux systems & scripting (Bash, Python)
+- Infrastructure-as-code, containers, and automated workflows
+- System hardening, compliance tools, and server-first architectures
+
+## 📺 Content & Projects
+- [YouTube Channel](#) (coming soon): Build logs, technical walkthroughs, solo dev system design
+- [Server Lite Build](https://github.com/YOURUSERNAME/server-lite-build): Full parts list, setup, and use cases
+- More repos coming soon: tools, hardening scripts, and dev infra
+
+---
+
+📫 **Reach me:** [adrian.blue.dev@gmail.com](mailto:adrian.blue.dev@gmail.com)
